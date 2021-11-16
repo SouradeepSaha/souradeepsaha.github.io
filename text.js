@@ -21,7 +21,7 @@ I'm currently working at Paphus Solutions (Ottawa-based startup, remote) as a so
 Besides coding, some of my intersts include working out, riding my bicycle, and learning French!
 
 
-Currently, I'm working on a <span class="orange">trading bot</span> using <span class="yellow">python, </span><span class="red">alphavantage, </span><span class="pink">and FXCM.</span> I've built the following projects in the past:
+Currently, I'm working on a <span class="orange">trading bot</span> using <span class="yellow">python, </span><span class="red">alphavantage, </span><span class="pink">and OANDA API.</span> I've built the following projects in the past:
 
 An <a href="/">online platform</a> for students to showcase their artwork using the plain HTML, CSS, JavaScript and some libraries.
 A <a href="/">chrome extension</a> which automatically records and summarizes online lecture notes
