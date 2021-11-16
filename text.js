@@ -1,5 +1,5 @@
 const terminal = `<span id="a">souradeep@saha</span>:<span id="b">~</span><span id="c">$</span>`;
-const email = "sahasouradeep01@gmail.com";
+const email = "s54saha@uwaterloo.ca";
 
 const text = `${terminal} cd projects/about-me
 ${terminal} npm start
@@ -12,15 +12,18 @@ ${terminal} npm start
 
 Hey, nice to meet you! I am <span class="blue"><strong>Souradeep Saha</strong></span>
 
-I graduated from <span class="purple"><strong>Danforth Collegiate and Technical Institute</strong></span> (2020) and I'm currently a freshman studying Computer Science @ <span class="purple"><strong>University of Waterloo</strong></span>
+I graduated from <span class="purple"><strong>Danforth Collegiate and Technical Institute</strong></span> (2020) and I'm a sophormone studying Computer Science @ <span class="purple"><strong>University of Waterloo</strong></span>
 
 
-Some of my intersts include playing pong, drawing, riding my bicycle and coding.
+I'm currently working at Paphus Solutions (Ottawa-based startup, remote) as a software developer intern until December 2022. I'm also looking for summer 2022 internship opportunities!
+
+
+Besides coding, some of my intersts include working out, riding my bicycle, and learning French!
 
 
 Currently, I'm working on a <span class="orange">trading bot</span> using <span class="yellow">python, </span><span class="red">alphavantage, </span><span class="pink">and FXCM.</span> I've built the following projects in the past:
 
-An <a href="/">online platform</a> for students to sell and distribute their artwork using the MERN stack
+An <a href="/">online platform</a> for students to showcase their artwork using the plain HTML, CSS, JavaScript and some libraries.
 A <a href="/">chrome extension</a> which automatically records and summarizes online lecture notes
 
 ..And much more! You can see all of them <a href="/">here</a>
