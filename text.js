@@ -12,10 +12,17 @@ ${terminal} npm start
 
 Hey, nice to meet you! I am <span class="blue"><strong>Souradeep Saha</strong></span>
 
-I graduated from <span class="purple"><strong>Danforth Collegiate and Technical Institute</strong></span> (2020) and I'm a sophormone studying Computer Science @ <span class="purple"><strong>University of Waterloo</strong></span>
+I'm a junior majoring in Computer Science at the <span class="purple"><strong>University of Waterloo</strong></span>. Some of my relevant coursework include Operating Systems,
+Distributed Systems, Computer Security and Networking. I'm planning to graduate during Winter 2024.
 
+I'm currently looking for Spring and Fall 2023 internships!
 
-I'm currently working at Paphus Solutions (Ottawa-based startup, remote) as a software developer intern until December 2022. I'm also looking for summer 2022 internship opportunities!
+Previously, I've worked at <span class="green"><strong>Instinet Incorporated</strong></span> during Spring 2022 as a Site Reliability Engineering Intern, working on the migration of on-premises infrastructure to AWS,
+and managed underutilized cloud resources. As a result, I've cut monthly expenses by at least $25,000!
+I've utilized knowledge in AWS CloudFormation, GitLab pipelines, Python and other DevOps principles during my work. I'm also an AWS Certified Cloud Practitioner!
+
+During Fall 2021, I worked at <span class="green"><strong>Paphus Solutions</strong></span> as a Software Developer Intern, integrating Facebook and Instagram messenger support with an opne-source AI Chatbot server, BotLibre.
+I've utilized knowledge in Java, REST Server, AI/ML Scripting among other technologies.
 
 
 Besides coding, some of my intersts include working out, riding my bicycle, and learning French!
@@ -23,10 +30,11 @@ Besides coding, some of my intersts include working out, riding my bicycle, and 
 
 Currently, I'm working on a <span class="orange">trading bot</span> using <span class="yellow">python, </span><span class="red">alphavantage, </span><span class="pink">and OANDA API.</span> I've built the following projects in the past:
 
-An <a href="/">online platform</a> for students to showcase their artwork using the plain HTML, CSS, JavaScript and some libraries.
-A <a href="/">chrome extension</a> which automatically records and summarizes online lecture notes
+UWPath, a <a href="/">course planner</a> for University of Waterloo students.
+ArtShow, an <a href="/">online platform</a> for students to showcase their artwork using HTML/CSS/JavaScript.
+Scribr, a <a href="/">chrome extension</a> which automatically records and summarizes online lecture notes
 
-..And much more! You can see all of them <a href="/">here</a>
+..And much more! You can see all of them <a href="https://github.com/SouradeepSaha">here</a>
 
 
 You can take a look at my other profiles here:
